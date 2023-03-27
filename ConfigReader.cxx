@@ -658,7 +658,7 @@ void ConfigReader::read(std::string fileName)
 			name = value;
 		}
 
-		if (key != "triggers" && key != "badRunList" && key != "subEvent"){			
+		else if (key != "triggers" && key != "badRunList" && key != "subEvent"){			
 			try
 			{ intValCuts.at(key) = std::atoi(value.c_str()); }
 			catch (...)//(const std::out_of_range& oorInt) 
