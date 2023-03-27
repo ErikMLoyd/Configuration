@@ -8,6 +8,7 @@
 # 0 = false, 1 = true
 fixed_target=1
 
+name=3p0
 sqrt_s_NN=3.0
 y_mid=-1.05
 y_beam=2.09
@@ -124,22 +125,22 @@ yCM_la_semicentral_high=0.6
 yCM_la_peripheral_low=0.1
 yCM_la_peripheral_high=0.6
 
-yCM_ala_central_low=0.1
-yCM_ala_central_high=0.6
+yCM_ala_central_low=0.0
+yCM_ala_central_high=0.5
 yCM_ala_semicentral_low=0.1
 yCM_ala_semicentral_high=0.6
 yCM_ala_peripheral_low=0.1
 yCM_ala_peripheral_high=0.6
 
-yCM_xi_plus_central_low=0.1
-yCM_xi_plus_central_high=0.6
+yCM_xi_plus_central_low=0.0
+yCM_xi_plus_central_high=0.5
 yCM_xi_plus_semicentral_low=0.1
 yCM_xi_plus_semicentral_high=0.6
 yCM_xi_plus_peripheral_low=0.1
 yCM_xi_plus_peripheral_high=0.6
 
-yCM_xi_minus_central_low=0.1
-yCM_xi_minus_central_high=0.6
+yCM_xi_minus_central_low=0.0
+yCM_xi_minus_central_high=0.5
 yCM_xi_minus_semicentral_low=0.1
 yCM_xi_minus_semicentral_high=0.6
 yCM_xi_minus_peripheral_low=0.1
@@ -216,14 +217,14 @@ pT_ala_peripheral_low=0.5
 pT_ala_peripheral_high=1.3
 
 pT_xi_plus_central_low=0.6
-pT_xi_plus_central_high=1.4
+pT_xi_plus_central_high=1.6
 pT_xi_plus_semicentral_low=0.6
 pT_xi_plus_semicentral_high=1.4
 pT_xi_plus_peripheral_low=0.7
 pT_xi_plus_peripheral_high=1.3
 
-pT_xi_minus_central_low=0.4
-pT_xi_minus_central_high=2.0
+pT_xi_minus_central_low=0.6
+pT_xi_minus_central_high=1.5
 pT_xi_minus_semicentral_low=0.4
 pT_xi_minus_semicentral_high=2.0
 pT_xi_minus_peripheral_low=0.4
@@ -237,8 +238,8 @@ pT_omega_plus_peripheral_low=0.4
 pT_omega_plus_peripheral_high=2.0
 
 pT_omega_minus_central_low=0.4
-pT_omega_minus_central_high=2.0
+pT_omega_minus_central_high=1.0
 pT_omega_minus_semicentral_low=0.4
-pT_omega_minus_semicentral_high=2.0
+pT_omega_minus_semicentral_high=1.0
 pT_omega_minus_peripheral_low=0.4
-pT_omega_minus_peripheral_high=2.0
+pT_omega_minus_peripheral_high=1.0
