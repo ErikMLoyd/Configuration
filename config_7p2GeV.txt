@@ -7,7 +7,7 @@
 # 0 = false, 1 = true
 fixed_target=1
 
-
+name=7p2
 sqrt_s_NN=7.2
 y_mid=-2.02
 shift_terms=20
