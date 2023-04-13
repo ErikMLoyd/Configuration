@@ -42,7 +42,7 @@ m_omega_mass_high=1.68745
 order_n=1.0
 order_m=1.0
 shift_terms=20
-epd_max_weight=2
+epd_max_weight=3.0
 epd_threshold=0.3
 
 # SubEvents
