@@ -40,10 +40,12 @@ class ConfigReader
   Int_t m_nHits_dEdx;
   
   //Maker PID Cuts
-  Double_t nSig_pi;
-  Double_t nSig_ka;
-  Double_t nSig_pr;
-  Double_t TOFnSigma;
+  Double_t m_nSig_dEdx_pi;
+  Double_t m_nSig_dEdx_ka;
+  Double_t m_nSig_dEdx_pr;
+  Double_t m_nSig_m2_pi;
+  Double_t m_nSig_m2_ka;
+  Double_t m_nSig_m2_pr;
   
   Double_t m_lambda_mass_low;
   Double_t m_lambda_mass_high;

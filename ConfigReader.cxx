@@ -24,10 +24,12 @@ void ConfigReader::initialize()
 	m_nHits_dEdx = intValCuts["m_nHits_dEdx"] = -999;	
 	
 	//Maker PID Cuts
-	nSig_pi = dblValCuts["nSig_pi"] = -999.0;
-	nSig_ka = dblValCuts["nSig_ka"] = -999.0;
-	nSig_pr = dblValCuts["nSig_pr"] = -999.0;
-	TOFnSigma = dblValCuts["TOFnSigma"] = -999.0;
+	m_nSig_dEdx_pi = dblValCuts["m_nSig_dEdx_pi"] = -999.0;
+	m_nSig_dEdx_ka = dblValCuts["m_nSig_dEdx_ka"] = -999.0;
+	m_nSig_dEdx_pr = dblValCuts["m_nSig_dEdx_pr"] = -999.0;
+	m_nSig_m2_pi = dblValCuts["m_nSig_m2_pi"] = -999.0;
+	m_nSig_m2_ka = dblValCuts["m_nSig_m2_ka"] = -999.0;
+	m_nSig_m2_pr = dblValCuts["m_nSig_m2_p4"] = -999.0;
   
 	m_lambda_mass_low = dblValCuts["m_lambda_mass_low"] = -999.0;
 	m_lambda_mass_high = dblValCuts["m_lambda_mass_high"] = -999.0;
@@ -255,10 +257,12 @@ void ConfigReader::setAllCuts()
 	m_nHits_dEdx = intValCuts["m_nHits_dEdx"];	
 	
 	//Maker PID Cuts
-	nSig_pi = dblValCuts["nSig_pi"];
-	nSig_ka = dblValCuts["nSig_ka"];
-	nSig_pr = dblValCuts["nSig_pr"];
-	TOFnSigma = dblValCuts["TOFnSigma"];
+	m_nSig_dEdx_pi = dblValCuts["m_nSig_dEdx_pi"];
+	m_nSig_dEdx_ka = dblValCuts["m_nSig_dEdx_ka"];
+	m_nSig_dEdx_pr = dblValCuts["m_nSig_dEdx_pr"];
+	m_nSig_m2_pi = dblValCuts["m_nSig_m2_pi"];
+	m_nSig_m2_ka = dblValCuts["m_nSig_m2_ka"];
+	m_nSig_m2_pr = dblValCuts["m_nSig_m2_p4"];
   
 	m_lambda_mass_low = dblValCuts["m_lambda_mass_low"];
 	m_lambda_mass_high = dblValCuts["m_lambda_mass_high"];
