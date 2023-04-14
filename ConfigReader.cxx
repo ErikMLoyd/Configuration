@@ -29,7 +29,7 @@ void ConfigReader::initialize()
 	m_nSig_dEdx_pr = dblValCuts["m_nSig_dEdx_pr"] = -999.0;
 	m_nSig_m2_pi = dblValCuts["m_nSig_m2_pi"] = -999.0;
 	m_nSig_m2_ka = dblValCuts["m_nSig_m2_ka"] = -999.0;
-	m_nSig_m2_pr = dblValCuts["m_nSig_m2_p4"] = -999.0;
+	m_nSig_m2_pr = dblValCuts["m_nSig_m2_pr"] = -999.0;
   
 	m_lambda_mass_low = dblValCuts["m_lambda_mass_low"] = -999.0;
 	m_lambda_mass_high = dblValCuts["m_lambda_mass_high"] = -999.0;
@@ -262,7 +262,7 @@ void ConfigReader::setAllCuts()
 	m_nSig_dEdx_pr = dblValCuts["m_nSig_dEdx_pr"];
 	m_nSig_m2_pi = dblValCuts["m_nSig_m2_pi"];
 	m_nSig_m2_ka = dblValCuts["m_nSig_m2_ka"];
-	m_nSig_m2_pr = dblValCuts["m_nSig_m2_p4"];
+	m_nSig_m2_pr = dblValCuts["m_nSig_m2_pr"];
   
 	m_lambda_mass_low = dblValCuts["m_lambda_mass_low"];
 	m_lambda_mass_high = dblValCuts["m_lambda_mass_high"];
