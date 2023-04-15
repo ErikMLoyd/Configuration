@@ -15,7 +15,6 @@ y_beam=2.09
 triggers=620052
 #bbce_tofmult1
 
-
 # MAKER SIZE CUTS - Must be wider than any systematic variations, but small enough to help trim the tree size.
 m_r_vtx=2.4
 m_z_vtx_low=197.2
