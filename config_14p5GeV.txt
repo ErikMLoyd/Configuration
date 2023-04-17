@@ -50,6 +50,7 @@ epd_threshold=0.3
 # SubEvents
 subEvent=r,-16,-1,1
 subEvent=r,1,16,2
+subEvent=e,-0.5,0.5,3
 
 # Systematic cuts
 nHits=15
