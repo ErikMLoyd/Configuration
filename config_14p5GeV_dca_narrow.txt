@@ -3,6 +3,6 @@
 # This is a variation file. See a full configuration file
 # for more information.
 
-name=14p5_dca_narrow
+name=14p5GeV_dca_narrow
 
 dca=2.7

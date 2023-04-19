@@ -3,7 +3,7 @@
 # This is a variation file. See a full configuration file
 # for more information.
 
-name=14p5_zvtx_wide
+name=14p5GeV_zvtx_wide
 
 z_vtx_low=-145.3
 z_vtx_high=145.3
