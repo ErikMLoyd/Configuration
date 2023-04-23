@@ -15,8 +15,8 @@ triggers=630052
 
 # MAKER SIZE CUTS - Must be wider than any systematic variations, but small enough to help trim the tree size.
 m_r_vtx=2.4
-m_z_vtx_low=-146.0
-m_z_vtx_high=146.0
+m_z_vtx_low=197.2
+m_z_vtx_high=202.8
 m_nHits_ratio=0.312
 m_dca=4.2
 m_nHits=0
