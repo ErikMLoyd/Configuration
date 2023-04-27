@@ -77,13 +77,6 @@ m2_pr_high=3.0
 m2_e_high=0.005
 d_mom_pi_low=0.25
 
-# SubEvents
-subEvent=e,-0.6,0
-subEvent=e,-3.95,-2.60
-subEvent=e,-4.35,-3.95
-subEvent=e,-4.4,-4.35
-subEvent=e,-5,-4.4
-
 #Acceptance cuts
 yCM_pi_plus_central_low=0.0
 yCM_pi_plus_central_high=0.0
