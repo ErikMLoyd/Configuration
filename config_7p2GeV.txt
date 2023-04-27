@@ -4,6 +4,7 @@
 # To get a list of all available variables, check ConfigReader.h.
 
 
+# STANDARD INFORMATION
 # 0 = false, 1 = true
 fixed_target=1
 
@@ -38,21 +39,35 @@ m_omega_mass_low=1.65745
 m_omega_mass_high=1.68745
 
 # ANALYSIS CUTS - These are the true cuts you want for your analysis.
+#Analysis Cuts
+order_n=1.0
+order_m=1.0
+shift_terms=20
+epd_max_weight=2.0
+epd_threshold=0.3
+
+# SubEvents
+subEvent=e,-0.6,0
+subEvent=e,-3.95,-2.60
+subEvent=e,-4.35,-3.95
+subEvent=e,-4.4,-4.35
+subEvent=e,-5,-4.4
+
 # Systematic cuts
-epd_max_weight=2
 nHits=15
 nHits_dEdx=0
 min_tracks=5
-
-epd_threshold=0.3
 nHits_ratio=0.51
 dca=3.0
 r_vtx=2.0
 z_vtx_low=198.0
 z_vtx_high=202.0
-nSig_pi_high=2.0
+nSig_pi_high=3.0
+nSig_pi_low=-3.0
 nSig_ka_high=2.0
-nSig_pr_high=2.0
+nSig_ka_low=-2.0
+nSig_pr_high=3.0
+nSig_pr_low=-3.0
 m2_pi_low=0.0
 m2_pi_high=3.0
 m2_ka_low=0.0
