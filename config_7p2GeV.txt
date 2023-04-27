@@ -47,11 +47,11 @@ epd_max_weight=2.0
 epd_threshold=0.3
 
 # SubEvents
-subEvent=e,-0.6,0
-subEvent=e,-3.95,-2.60
-subEvent=e,-4.35,-3.95
-subEvent=e,-4.4,-4.35
-subEvent=e,-5,-4.4
+subEvent=e,-0.6,0,3
+subEvent=e,-3.95,-2.60,4
+subEvent=e,-4.35,-3.95,2
+subEvent=e,-4.4,-4.35,5
+subEvent=e,-5,-4.4,1
 
 # Systematic cuts
 nHits=15
