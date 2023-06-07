@@ -24,12 +24,12 @@ m_nHits=0
 m_nHits_dEdx=0
 
 # MAKER PID CUTS - Cuts for suggested PID for light particles and for retroactive PID using heavier particles.
-m_nSig_dEdx_pi=3.3
-m_nSig_dEdx_ka=3.3
-m_nSig_dEdx_pr=3.3
-m_nSig_m2_pi=4.2
-m_nSig_m2_ka=3.9
-m_nSig_m2_pr=3.6
+m_nSig_dEdx_pi=6.6
+m_nSig_dEdx_ka=6.6
+m_nSig_dEdx_pr=6.6
+m_nSig_m2_pi=8.4
+m_nSig_m2_ka=7.8
+m_nSig_m2_pr=7.2
 
 m_lambda_mass_low=1.10068
 m_lambda_mass_high=1.13068
