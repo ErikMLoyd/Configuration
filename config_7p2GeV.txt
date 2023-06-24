@@ -31,12 +31,12 @@ m_nSig_m2_pi=8.4
 m_nSig_m2_ka=7.8
 m_nSig_m2_pr=7.2
 
-m_lambda_mass_low=1.10068
-m_lambda_mass_high=1.13068
-m_xi_mass_low=1.30671
-m_xi_mass_high=1.33671
-m_omega_mass_low=1.65745
-m_omega_mass_high=1.68745
+m_lambda_mass_low=1.0901
+m_lambda_mass_high=1.1413
+m_xi_mass_low=1.2961
+m_xi_mass_high=1.3473
+m_omega_mass_low=1.6469
+m_omega_mass_high=1.6981
 
 # ANALYSIS CUTS - These are the true cuts you want for your analysis.
 #Analysis Cuts
