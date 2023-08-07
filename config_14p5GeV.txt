@@ -54,7 +54,7 @@ subEvent=r,1,16,1
 
 # Systematic cuts
 nHits=15
-nHits_dEdx=0
+nHits_dEdx=5
 min_tracks=5
 nHits_ratio=0.51
 dca=3.0

@@ -1,0 +1,9 @@
+# Configuration file for setting cuts for a specific energy.
+# <- Lines starting with this will be ignored.
+# This is a variation file. See a full configuration file
+# for more information.
+
+name=14p5GeV_nsigma_dedx_proton_low
+
+nSig_pr_high=2.1
+nSig_pr_low=-2.1
