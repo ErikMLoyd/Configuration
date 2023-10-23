@@ -15,7 +15,7 @@ shift_terms=20
 triggers=630052
 
 # MAKER SIZE CUTS - Must be wider than any systematic variations, but small enough to help trim the tree size.
-m_r_vtx=2.4
+m_r_vtx=2.7
 m_z_vtx_low=197.2
 m_z_vtx_high=202.8
 m_nHits_ratio=0.35
@@ -55,7 +55,7 @@ subEvent=e,-5,-4.4,1
 
 # Systematic cuts
 nHits=15
-nHits_dEdx=0
+nHits_dEdx=5
 min_tracks=5
 nHits_ratio=0.51
 dca=3.0
