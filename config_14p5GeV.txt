@@ -77,33 +77,33 @@ m2_e_high=0.005
 d_mom_pi_low=0.25
 
 #Acceptance cuts
-yCM_pi_plus_central_low=-0.7
-yCM_pi_plus_central_high=0.7
-yCM_pi_plus_semicentral_low=-0.7
-yCM_pi_plus_semicentral_high=0.7
-yCM_pi_plus_peripheral_low=-0.7
-yCM_pi_plus_peripheral_high=0.7
+yCM_pi_plus_central_low=-1.0
+yCM_pi_plus_central_high=1.0
+yCM_pi_plus_semicentral_low=-1.0
+yCM_pi_plus_semicentral_high=1.0
+yCM_pi_plus_peripheral_low=-1.0
+yCM_pi_plus_peripheral_high=1.0
 
-yCM_pi_minus_central_low=-0.7
-yCM_pi_minus_central_high=0.7
-yCM_pi_minus_semicentral_low=-0.7
-yCM_pi_minus_semicentral_high=0.7
-yCM_pi_minus_peripheral_low=-0.7
-yCM_pi_minus_peripheral_high=0.7
+yCM_pi_minus_central_low=-1.0
+yCM_pi_minus_central_high=1.0
+yCM_pi_minus_semicentral_low=-1.0
+yCM_pi_minus_semicentral_high=1.0
+yCM_pi_minus_peripheral_low=-1.0
+yCM_pi_minus_peripheral_high=1.0
 
-yCM_ka_plus_central_low=-0.6
-yCM_ka_plus_central_high=0.6
-yCM_ka_plus_semicentral_low=-0.6
-yCM_ka_plus_semicentral_high=0.6
-yCM_ka_plus_peripheral_low=-0.6
-yCM_ka_plus_peripheral_high=0.6
+yCM_ka_plus_central_low=-0.7
+yCM_ka_plus_central_high=0.7
+yCM_ka_plus_semicentral_low=-0.7
+yCM_ka_plus_semicentral_high=0.7
+yCM_ka_plus_peripheral_low=-0.7
+yCM_ka_plus_peripheral_high=0.7
 
-yCM_ka_minus_central_low=-0.6
-yCM_ka_minus_central_high=0.6
-yCM_ka_minus_semicentral_low=-0.6
-yCM_ka_minus_semicentral_high=0.6
-yCM_ka_minus_peripheral_low=-0.6
-yCM_ka_minus_peripheral_high=0.6
+yCM_ka_minus_central_low=-0.7
+yCM_ka_minus_central_high=0.7
+yCM_ka_minus_semicentral_low=-0.7
+yCM_ka_minus_semicentral_high=0.7
+yCM_ka_minus_peripheral_low=-0.7
+yCM_ka_minus_peripheral_high=0.7
 
 yCM_pr_central_low=-0.5
 yCM_pr_central_high=0.5
@@ -147,19 +147,19 @@ yCM_xi_minus_semicentral_high=0.8
 yCM_xi_minus_peripheral_low=-0.8
 yCM_xi_minus_peripheral_high=0.8
 
-yCM_omega_plus_central_low=-0.8
-yCM_omega_plus_central_high=0.8
-yCM_omega_plus_semicentral_low=-0.8
-yCM_omega_plus_semicentral_high=0.8
-yCM_omega_plus_peripheral_low=-0.8
-yCM_omega_plus_peripheral_high=0.8
+yCM_omega_plus_central_low=-0.7
+yCM_omega_plus_central_high=0.7
+yCM_omega_plus_semicentral_low=-0.7
+yCM_omega_plus_semicentral_high=0.7
+yCM_omega_plus_peripheral_low=-0.7
+yCM_omega_plus_peripheral_high=0.7
 
-yCM_omega_minus_central_low=-0.8
-yCM_omega_minus_central_high=0.8
-yCM_omega_minus_semicentral_low=-0.8
-yCM_omega_minus_semicentral_high=0.8
-yCM_omega_minus_peripheral_low=-0.8
-yCM_omega_minus_peripheral_high=0.8
+yCM_omega_minus_central_low=-0.7
+yCM_omega_minus_central_high=0.7
+yCM_omega_minus_semicentral_low=-0.7
+yCM_omega_minus_semicentral_high=0.7
+yCM_omega_minus_peripheral_low=-0.7
+yCM_omega_minus_peripheral_high=0.7
 
 pT_pi_plus_central_low=0.4
 pT_pi_plus_central_high=2.0
