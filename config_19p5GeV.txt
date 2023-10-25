@@ -11,7 +11,7 @@ fixed_target=0
 name=19p5GeV
 sqrt_s_NN=19.5
 y_mid=0
-y_beam=0
+y_beam=3.7332
 triggers=640001,640011,640021,640031,640041,640051
 #minbias
 

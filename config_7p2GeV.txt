@@ -11,6 +11,7 @@ fixed_target=1
 name=7p2GeV
 sqrt_s_NN=7.2
 y_mid=-2.02
+y_beam=4.0351
 shift_terms=20
 triggers=630052
 
