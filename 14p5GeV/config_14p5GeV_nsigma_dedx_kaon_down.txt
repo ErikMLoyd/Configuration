@@ -5,5 +5,5 @@
 
 name=14p5GeV_nsigma_dedx_kaon_down
 
-nSig_ka_high=2.4
-nSig_ka_low=-2.4
+nSig_ka_high=1.6
+nSig_ka_low=-1.6
