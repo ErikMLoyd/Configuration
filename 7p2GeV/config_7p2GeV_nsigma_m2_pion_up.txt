@@ -1,0 +1,8 @@
+# Configuration file for setting cuts for a specific energy.
+# <- Lines starting with this will be ignored.
+# This is a variation file. See a full configuration file
+# for more information.
+
+name=7p2GeV_nsigma_m2_pion_up
+
+m2_pi_high=3.6

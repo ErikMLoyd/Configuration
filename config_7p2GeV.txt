@@ -49,9 +49,7 @@ epd_threshold=0.3
 
 # SubEvents
 subEvent=e,-0.6,0,3
-subEvent=e,-3.95,-2.60,4
 subEvent=e,-4.35,-3.95,2
-subEvent=e,-4.4,-4.35,5
 subEvent=e,-5,-4.4,1
 
 # Systematic cuts
@@ -75,8 +73,6 @@ m2_ka_low=0.0
 m2_ka_high=3.0
 m2_pr_low=0.0
 m2_pr_high=3.0
-m2_e_high=0.005
-d_mom_pi_low=0.25
 
 #Acceptance cuts
 yCM_pi_plus_central_low=1.0
