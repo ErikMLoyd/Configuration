@@ -6,4 +6,4 @@
 name=7p2GeV_zvtx_high
 
 z_vtx_low=197.4
-z_vtx_high=197.4
+z_vtx_high=202.6
