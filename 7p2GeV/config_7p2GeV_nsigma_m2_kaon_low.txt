@@ -3,6 +3,6 @@
 # This is a variation file. See a full configuration file
 # for more information.
 
-name=14p5GeV_nsigma_m2_kaon_low
+name=7p2GeV_nsigma_m2_kaon_low
 
 m2_ka_high=2.1
