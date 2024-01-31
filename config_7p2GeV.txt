@@ -46,6 +46,8 @@ order_m=1.0
 shift_terms=20
 epd_max_weight=2.0
 epd_threshold=0.3
+useV1Weights=0
+useNegChargeM2=1
 
 # SubEvents
 subEvent=e,-0.6,0,3

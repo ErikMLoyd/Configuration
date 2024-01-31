@@ -60,11 +60,8 @@ class ConfigReader
   Int_t shift_terms;
   Int_t epd_max_weight;
   Double_t epd_threshold;
-  //Subevents
-  std::vector<char> subEventType;
-  std::vector<Float_t> subEventMin;
-  std::vector<Float_t> subEventMax;
-  std::vector<Int_t> subEventPriority; 
+  Int_t useV1Weights; // boolean: 0 or 1
+  Int_t useNegChargeM2; // boolean: 0 or 1
   
   Int_t nHits;
   Int_t nHits_dEdx;
@@ -88,6 +85,12 @@ class ConfigReader
   Double_t m2_pr_high;
   Double_t m2_e_high;
   Double_t d_mom_pi_low;
+  
+  //Subevents
+  std::vector<char> subEventType;
+  std::vector<Float_t> subEventMin;
+  std::vector<Float_t> subEventMax;
+  std::vector<Int_t> subEventPriority; 
   
   //Acceptance regions
   Double_t yCM_pi_plus_central_low;
