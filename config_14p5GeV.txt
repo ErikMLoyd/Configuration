@@ -93,33 +93,33 @@ yCM_pi_minus_semicentral_high=1.0
 yCM_pi_minus_peripheral_low=-1.0
 yCM_pi_minus_peripheral_high=1.0
 
-yCM_ka_plus_central_low=-0.7
-yCM_ka_plus_central_high=0.7
-yCM_ka_plus_semicentral_low=-0.7
-yCM_ka_plus_semicentral_high=0.7
-yCM_ka_plus_peripheral_low=-0.7
-yCM_ka_plus_peripheral_high=0.7
+yCM_ka_plus_central_low=-0.8
+yCM_ka_plus_central_high=0.8
+yCM_ka_plus_semicentral_low=-0.8
+yCM_ka_plus_semicentral_high=0.8
+yCM_ka_plus_peripheral_low=-0.8
+yCM_ka_plus_peripheral_high=0.8
 
-yCM_ka_minus_central_low=-0.7
-yCM_ka_minus_central_high=0.7
-yCM_ka_minus_semicentral_low=-0.7
-yCM_ka_minus_semicentral_high=0.7
-yCM_ka_minus_peripheral_low=-0.7
-yCM_ka_minus_peripheral_high=0.7
+yCM_ka_minus_central_low=-0.8
+yCM_ka_minus_central_high=0.8
+yCM_ka_minus_semicentral_low=-0.8
+yCM_ka_minus_semicentral_high=0.8
+yCM_ka_minus_peripheral_low=-0.8
+yCM_ka_minus_peripheral_high=0.78
 
-yCM_pr_central_low=-0.5
-yCM_pr_central_high=0.5
-yCM_pr_semicentral_low=-0.5
-yCM_pr_semicentral_high=0.5
-yCM_pr_peripheral_low=-0.5
-yCM_pr_peripheral_high=0.5
+yCM_pr_central_low=-0.7
+yCM_pr_central_high=0.7
+yCM_pr_semicentral_low=-0.7
+yCM_pr_semicentral_high=0.7
+yCM_pr_peripheral_low=-0.7
+yCM_pr_peripheral_high=0.7
 
-yCM_apr_central_low=-0.5
-yCM_apr_central_high=0.5
-yCM_apr_semicentral_low=-0.5
-yCM_apr_semicentral_high=0.5
-yCM_apr_peripheral_low=-0.5
-yCM_apr_peripheral_high=0.5
+yCM_apr_central_low=-0.7
+yCM_apr_central_high=0.7
+yCM_apr_semicentral_low=-0.7
+yCM_apr_semicentral_high=0.7
+yCM_apr_peripheral_low=-0.7
+yCM_apr_peripheral_high=0.7
 
 yCM_la_central_low=-0.8
 yCM_la_central_high=0.8
