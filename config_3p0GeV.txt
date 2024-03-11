@@ -82,39 +82,39 @@ d_mom_pi_low=0.25
 
 #Acceptance cuts
 yCM_pi_plus_central_low=-0.3
-yCM_pi_plus_central_high=0.7
+yCM_pi_plus_central_high=1.0
 yCM_pi_plus_semicentral_low=-0.3
-yCM_pi_plus_semicentral_high=0.7
+yCM_pi_plus_semicentral_high=1.0
 yCM_pi_plus_peripheral_low=-0.3
-yCM_pi_plus_peripheral_high=0.7
+yCM_pi_plus_peripheral_high=1.0
 
 yCM_pi_minus_central_low=-0.3
-yCM_pi_minus_central_high=0.7
+yCM_pi_minus_central_high=1.0
 yCM_pi_minus_semicentral_low=-0.3
-yCM_pi_minus_semicentral_high=0.7
+yCM_pi_minus_semicentral_high=1.0
 yCM_pi_minus_peripheral_low=-0.3
-yCM_pi_minus_peripheral_high=0.7
+yCM_pi_minus_peripheral_high=1.0
 
 yCM_ka_plus_central_low=0.0
-yCM_ka_plus_central_high=0.6
+yCM_ka_plus_central_high=1.0
 yCM_ka_plus_semicentral_low=0.0
-yCM_ka_plus_semicentral_high=0.6
+yCM_ka_plus_semicentral_high=1.0
 yCM_ka_plus_peripheral_low=0.0
-yCM_ka_plus_peripheral_high=0.6
+yCM_ka_plus_peripheral_high=1.0
 
 yCM_ka_minus_central_low=0.1
-yCM_ka_minus_central_high=0.6
+yCM_ka_minus_central_high=1.0
 yCM_ka_minus_semicentral_low=0.1
-yCM_ka_minus_semicentral_high=0.6
+yCM_ka_minus_semicentral_high=1.0
 yCM_ka_minus_peripheral_low=0.1
-yCM_ka_minus_peripheral_high=0.6
+yCM_ka_minus_peripheral_high=1.0
 
 yCM_pr_central_low=0.2
-yCM_pr_central_high=0.9
+yCM_pr_central_high=1.0
 yCM_pr_semicentral_low=0.2
-yCM_pr_semicentral_high=0.9
+yCM_pr_semicentral_high=1.0
 yCM_pr_peripheral_low=0.2
-yCM_pr_peripheral_high=0.9
+yCM_pr_peripheral_high=1.0
 
 yCM_apr_central_low=0.2
 yCM_apr_central_high=0.6
