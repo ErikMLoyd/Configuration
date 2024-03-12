@@ -51,10 +51,8 @@ useNegChargeM2=0
 
 # SubEvents
 subEvent=e,-1.0,0.0,3
-#subEvent=e,-3.2,-2.50,2
-#subEvent=e,-5.8,-3.2,1
 subEvent=r,-8,-1,1
-subEvent=r,-16,-9,2
+subEvent=r,-16,-10,2
 
 # Systematic cuts
 nHits=15
