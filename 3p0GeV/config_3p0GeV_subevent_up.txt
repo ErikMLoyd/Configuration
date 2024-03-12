@@ -3,6 +3,6 @@
 # This is a variation file. See a full configuration file
 # for more information.
 
-name=3p0GeV_subevent_high
+name=3p0GeV_subevent_up
 
 subEvent=r,-16,-10,2
