@@ -3,6 +3,6 @@
 # This is a variation file. See a full configuration file
 # for more information.
 
-name=7p2GeV_nhits_ratio_low
+name=3p0GeV_nhits_ratio_low
 
 nHits_ratio=0.364
