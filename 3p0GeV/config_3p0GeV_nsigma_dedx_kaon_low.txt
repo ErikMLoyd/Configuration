@@ -5,5 +5,5 @@
 
 name=3p0GeV_nsigma_dedx_kaon_low
 
-nSig_ka_high=1.4
-nSig_ka_low=-1.4
+nSig_ka_high=2.1
+nSig_ka_low=-2.1
