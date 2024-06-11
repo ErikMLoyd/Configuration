@@ -62,6 +62,8 @@ class ConfigReader
   Double_t epd_threshold;
   Int_t useV1Weights; // boolean: 0 or 1
   Int_t useNegChargeM2; // boolean: 0 or 1
+  Double_t piKThreshold;
+  Double_t prThreshold;
   
   Int_t nHits;
   Int_t nHits_dEdx;

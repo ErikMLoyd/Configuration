@@ -46,6 +46,8 @@ void ConfigReader::initialize()
 	epd_threshold = dblValCuts["epd_threshold"] = -999.0;
 	useV1Weights = intValCuts["useV1Weights"] = -999;
 	useNegChargeM2 = intValCuts["useNegChargeM2"] = -999;
+	piKThreshold = dblValCuts["piKThreshold"] = -999;
+	prThreshold = dblValCuts["prThreshold"] = -999;
 
 	nHits = intValCuts["nHits"] = -999;
 	nHits_dEdx = intValCuts["nHits_dEdx"] = -999;
@@ -281,6 +283,8 @@ void ConfigReader::setAllCuts()
 	epd_threshold = dblValCuts["epd_threshold"];
 	useV1Weights = intValCuts["useV1Weights"];
 	useNegChargeM2 = intValCuts["useNegChargeM2"];
+	piKThreshold = dblValCuts["piKThreshold"];
+	prThreshold = dblValCuts["prThreshold"];
 
 	nHits = intValCuts["nHits"];
 	nHits_dEdx = intValCuts["nHits_dEdx"];
