@@ -1,0 +1,8 @@
+# Configuration file for setting cuts for a specific energy.
+# <- Lines starting with this will be ignored.
+# This is a variation file. See a full configuration file
+# for more information.
+
+name=11p5GeV_rvtx_up
+
+r_vtx=2.4
