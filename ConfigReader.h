@@ -94,6 +94,32 @@ class ConfigReader
   std::vector<Float_t> subEventMax;
   std::vector<Int_t> subEventPriority; 
   
+  //Binning numbers
+  Int_t bin_la_m;
+  Int_t bin_la_phi;
+  Int_t bin_la_y;
+  Int_t bin_la_pT;
+  Int_t bin_al_m;
+  Int_t bin_al_phi;
+  Int_t bin_al_y;
+  Int_t bin_al_pT;
+  Int_t bin_xi_m;
+  Int_t bin_xi_phi;
+  Int_t bin_xi_y;
+  Int_t bin_xi_pT;
+  Int_t bin_ax_m;
+  Int_t bin_ax_phi;
+  Int_t bin_ax_y;
+  Int_t bin_ax_pT;
+  Int_t bin_om_m;
+  Int_t bin_om_phi;
+  Int_t bin_om_y;
+  Int_t bin_om_pT;
+  Int_t bin_ao_m;
+  Int_t bin_ao_phi;
+  Int_t bin_ao_y;
+  Int_t bin_ao_pT;
+  
   //Acceptance regions
   Double_t yCM_pi_plus_central_low;
   Double_t yCM_pi_plus_central_high;

@@ -71,6 +71,32 @@ void ConfigReader::initialize()
 	m2_pr_high = dblValCuts["m2_pr_high"] = -999.0;
 	m2_e_high = dblValCuts["m2_e_high"] = -999.0;
 	d_mom_pi_low = dblValCuts["d_mom_pi_low"] = -999.0;
+	
+	//Binning numbers
+	bin_la_m    = intValCuts["bin_la_m"] = -999;
+	bin_la_phi  = intValCuts["bin_la_phi"] = -999;
+	bin_la_y    = intValCuts["bin_la_y"] = -999;
+	bin_la_pT   = intValCuts["bin_la_pT"] = -999;
+	bin_al_m    = intValCuts["bin_al_m"] = -999;
+	bin_al_phi  = intValCuts["bin_al_phi"] = -999;
+	bin_al_y    = intValCuts["bin_al_y"] = -999;
+	bin_al_pT   = intValCuts["bin_al_pT"] = -999;
+	bin_xi_m    = intValCuts["bin_xi_m"] = -999;
+	bin_xi_phi  = intValCuts["bin_xi_phi"] = -999;
+	bin_xi_y    = intValCuts["bin_xi_y"] = -999;
+	bin_xi_pT   = intValCuts["bin_xi_pT"] = -999;
+	bin_ax_m    = intValCuts["bin_ax_m"] = -999;
+	bin_ax_phi  = intValCuts["bin_ax_phi"] = -999;
+	bin_ax_y    = intValCuts["bin_ax_y"] = -999;
+	bin_ax_pT   = intValCuts["bin_ax_pT"] = -999;
+	bin_om_m    = intValCuts["bin_om_m"] = -999;
+	bin_om_phi  = intValCuts["bin_om_phi"] = -999;
+	bin_om_y    = intValCuts["bin_om_y"] = -999;
+	bin_om_pT   = intValCuts["bin_om_pT"] = -999;
+	bin_ao_m    = intValCuts["bin_ao_m"] = -999;
+	bin_ao_phi  = intValCuts["bin_ao_phi"] = -999;
+	bin_ao_y    = intValCuts["bin_ao_y"] = -999;
+	bin_ao_pT   = intValCuts["bin_ao_pT"] = -999;
 
 	//Acceptance regions
 	yCM_pi_plus_central_low = dblValCuts["yCM_pi_plus_central_low"] = -999.0;
@@ -308,6 +334,32 @@ void ConfigReader::setAllCuts()
 	m2_pr_high = dblValCuts["m2_pr_high"];
 	m2_e_high = dblValCuts["m2_e_high"];
 	d_mom_pi_low = dblValCuts["d_mom_pi_low"];
+	
+	//Binning numbers
+	bin_la_m    = intValCuts["bin_la_m"];
+	bin_la_phi  = intValCuts["bin_la_phi"];
+	bin_la_y    = intValCuts["bin_la_y"];
+	bin_la_pT   = intValCuts["bin_la_pT"];
+	bin_al_m    = intValCuts["bin_al_m"];
+	bin_al_phi  = intValCuts["bin_al_phi"];
+	bin_al_y    = intValCuts["bin_al_y"];
+	bin_al_pT   = intValCuts["bin_al_pT"];
+	bin_xi_m    = intValCuts["bin_xi_m"];
+	bin_xi_phi  = intValCuts["bin_xi_phi"];
+	bin_xi_y    = intValCuts["bin_xi_y"];
+	bin_xi_pT   = intValCuts["bin_xi_pT"];
+	bin_ax_m    = intValCuts["bin_ax_m"];
+	bin_ax_phi  = intValCuts["bin_ax_phi"];
+	bin_ax_y    = intValCuts["bin_ax_y"];
+	bin_ax_pT   = intValCuts["bin_ax_pT"];
+	bin_om_m    = intValCuts["bin_om_m"];
+	bin_om_phi  = intValCuts["bin_om_phi"];
+	bin_om_y    = intValCuts["bin_om_y"];
+	bin_om_pT   = intValCuts["bin_om_pT"];
+	bin_ao_m    = intValCuts["bin_ao_m"];
+	bin_ao_phi  = intValCuts["bin_ao_phi"];
+	bin_ao_y    = intValCuts["bin_ao_y"];
+	bin_ao_pT   = intValCuts["bin_ao_pT"];
 
 	//Acceptance regions
 	yCM_pi_plus_central_low = dblValCuts["yCM_pi_plus_central_low"];

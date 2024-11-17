@@ -80,6 +80,32 @@ m2_pr_high=3.0
 m2_e_high=0.005
 d_mom_pi_low=0.25
 
+#Binning numbers
+bin_la_m=1
+bin_la_phi=1
+bin_la_y=1
+bin_la_pT=1
+bin_al_m=1
+bin_al_phi=1
+bin_al_y=1
+bin_al_pT=1
+bin_xi_m=2
+bin_xi_phi=1
+bin_xi_y=2
+bin_xi_pT=2
+bin_ax_m=2 
+bin_ax_phi=1
+bin_ax_y=2
+bin_ax_pT=2
+bin_om_m=4
+bin_om_phi=1
+bin_om_y=2
+bin_om_pT=2
+bin_ao_m=4
+bin_ao_phi=1
+bin_ao_y=2
+bin_ao_pT=2
+
 #Acceptance cuts
 yCM_pi_plus_central_low=-0.8
 yCM_pi_plus_central_high=0.8
