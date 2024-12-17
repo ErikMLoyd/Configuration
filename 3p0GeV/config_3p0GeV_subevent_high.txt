@@ -8,7 +8,7 @@
 # 0 = false, 1 = true
 fixed_target=1
 
-name=3p0GeV_subevent_high
+name=3p0GeV
 sqrt_s_NN=3.0
 y_mid=-1.05
 y_beam=2.0911
@@ -93,7 +93,7 @@ bin_xi_m=8
 bin_xi_phi=1
 bin_xi_y=3
 bin_xi_pT=4
-bin_ax_m=8
+bin_ax_m=8 
 bin_ax_phi=1
 bin_ax_y=3
 bin_ax_pT=4
