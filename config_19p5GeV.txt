@@ -9,7 +9,7 @@
 fixed_target=0
 
 name=19p5GeV
-sqrt_s_NN=19.5
+sqrt_s_NN=19.6
 y_mid=0
 y_beam=3.0332
 triggers=640001,640011,640021,640031,640041,640051
