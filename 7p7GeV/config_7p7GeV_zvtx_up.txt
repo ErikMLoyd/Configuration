@@ -1,0 +1,9 @@
+# Configuration file for setting cuts for a specific energy.
+# <- Lines starting with this will be ignored.
+# This is a variation file. See a full configuration file
+# for more information.
+
+name=7p7GeV_zvtx_up
+
+z_vtx_low=-84.0
+z_vtx_high=84.0
