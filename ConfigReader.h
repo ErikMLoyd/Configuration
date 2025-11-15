@@ -60,7 +60,7 @@ class ConfigReader
   Int_t shift_terms;
   Int_t epd_max_weight;
   Double_t epd_threshold;
-  Int_t useV1Weights; // boolean: 0 or 1
+  Int_t useV1Weights; // -1 to not use, 0-16 to apply selectively
   Int_t useNegChargeM2; // boolean: 0 or 1
   Double_t piKThreshold;
   Double_t prThreshold;
