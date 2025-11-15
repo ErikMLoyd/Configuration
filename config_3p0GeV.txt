@@ -191,87 +191,87 @@ yCM_omega_minus_semicentral_high=1.0
 yCM_omega_minus_peripheral_low=0.1
 yCM_omega_minus_peripheral_high=1.0
 
-pT_pi_plus_central_low=0.4
+pT_pi_plus_central_low=0.267
 pT_pi_plus_central_high=2.0
-pT_pi_plus_semicentral_low=0.4
+pT_pi_plus_semicentral_low=0.267
 pT_pi_plus_semicentral_high=2.0
-pT_pi_plus_peripheral_low=0.4
+pT_pi_plus_peripheral_low=0.267
 pT_pi_plus_peripheral_high=2.0
 
-pT_pi_minus_central_low=0.4
+pT_pi_minus_central_low=0.267
 pT_pi_minus_central_high=2.0
-pT_pi_minus_semicentral_low=0.4
+pT_pi_minus_semicentral_low=0.267
 pT_pi_minus_semicentral_high=2.0
-pT_pi_minus_peripheral_low=0.4
+pT_pi_minus_peripheral_low=0.267
 pT_pi_minus_peripheral_high=2.0
 
-pT_ka_plus_central_low=0.4
+pT_ka_plus_central_low=0.267
 pT_ka_plus_central_high=2.0
-pT_ka_plus_semicentral_low=0.4
+pT_ka_plus_semicentral_low=0.267
 pT_ka_plus_semicentral_high=2.0
-pT_ka_plus_peripheral_low=0.4
+pT_ka_plus_peripheral_low=0.267
 pT_ka_plus_peripheral_high=2.0
 
-pT_ka_minus_central_low=0.4
+pT_ka_minus_central_low=0.267
 pT_ka_minus_central_high=2.0
-pT_ka_minus_semicentral_low=0.4
+pT_ka_minus_semicentral_low=0.267
 pT_ka_minus_semicentral_high=2.0
-pT_ka_minus_peripheral_low=0.4
+pT_ka_minus_peripheral_low=0.267
 pT_ka_minus_peripheral_high=2.0
 
 pT_pr_central_low=0.4
-pT_pr_central_high=2.0
+pT_pr_central_high=3.0
 pT_pr_semicentral_low=0.4
-pT_pr_semicentral_high=2.0
+pT_pr_semicentral_high=3.0
 pT_pr_peripheral_low=0.4
-pT_pr_peripheral_high=2.0
+pT_pr_peripheral_high=3.0
 
 pT_apr_central_low=0.4
-pT_apr_central_high=2.0
+pT_apr_central_high=3.0
 pT_apr_semicentral_low=0.4
-pT_apr_semicentral_high=2.0
+pT_apr_semicentral_high=3.0
 pT_apr_peripheral_low=0.4
-pT_apr_peripheral_high=2.0
+pT_apr_peripheral_high=3.0
 
 pT_la_central_low=0.4
-pT_la_central_high=2.0
+pT_la_central_high=3.0
 pT_la_semicentral_low=0.4
-pT_la_semicentral_high=2.0
+pT_la_semicentral_high=3.0
 pT_la_peripheral_low=0.4
-pT_la_peripheral_high=2.0
+pT_la_peripheral_high=3.0
 
 pT_ala_central_low=0.4
-pT_ala_central_high=2.0
+pT_ala_central_high=3.0
 pT_ala_semicentral_low=0.4
-pT_ala_semicentral_high=2.0
+pT_ala_semicentral_high=3.0
 pT_ala_peripheral_low=0.4
-pT_ala_peripheral_high=2.0
+pT_ala_peripheral_high=3.0
 
 pT_xi_plus_central_low=0.4
-pT_xi_plus_central_high=2.0
+pT_xi_plus_central_high=3.0
 pT_xi_plus_semicentral_low=0.4
-pT_xi_plus_semicentral_high=2.0
+pT_xi_plus_semicentral_high=3.0
 pT_xi_plus_peripheral_low=0.4
-pT_xi_plus_peripheral_high=2.0
+pT_xi_plus_peripheral_high=3.0
 
 pT_xi_minus_central_low=0.4
-pT_xi_minus_central_high=2.0
+pT_xi_minus_central_high=3.0
 pT_xi_minus_semicentral_low=0.4
-pT_xi_minus_semicentral_high=2.0
+pT_xi_minus_semicentral_high=3.0
 pT_xi_minus_peripheral_low=0.4
-pT_xi_minus_peripheral_high=2.0
+pT_xi_minus_peripheral_high=3.0
 
 pT_omega_plus_central_low=0.4
-pT_omega_plus_central_high=2.0
+pT_omega_plus_central_high=3.0
 pT_omega_plus_semicentral_low=0.4
-pT_omega_plus_semicentral_high=2.0
+pT_omega_plus_semicentral_high=3.0
 pT_omega_plus_peripheral_low=0.4
-pT_omega_plus_peripheral_high=2.0
+pT_omega_plus_peripheral_high=3.0
 
 pT_omega_minus_central_low=0.4
-pT_omega_minus_central_high=2.0
+pT_omega_minus_central_high=3.0
 pT_omega_minus_semicentral_low=0.4
-pT_omega_minus_semicentral_high=2.0
+pT_omega_minus_semicentral_high=3.0
 pT_omega_minus_peripheral_low=0.4
-pT_omega_minus_peripheral_high=2.0
+pT_omega_minus_peripheral_high=3.0
 
