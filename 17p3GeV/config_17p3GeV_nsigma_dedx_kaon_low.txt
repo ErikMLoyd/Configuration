@@ -1,0 +1,10 @@
+# Configuration file for setting cuts for a specific energy.
+# <- Lines starting with this will be ignored.
+# This is a variation file. See a full configuration file
+# for more information.
+
+name=17p3GeV_nsigma_dedx_kaon_low
+
+nSig_ka_high=2.1
+nSig_ka_low=-2.1
+
